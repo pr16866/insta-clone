@@ -8,7 +8,7 @@ import { useEffect } from 'react'
 import Signup from './components/Signup'
 import Profile from './components/Profile'
 import EditProfile from './components/EditProfile'
-import "./app.css";
+import "./App.css";
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import MainLayout from './components/MainLayout'
 import Login from './components/Login'
