@@ -1,0 +1,9 @@
+# Ignore root node_modules
+/node_modules/
+
+# Ignore frontend's node_modules
+/frontend/node_modules/
+
+# Ignore .env files
+.env
+/frontend/.env

@@ -1,0 +1,1 @@
+export const  contenTypeFormData="multipart/form-data"
